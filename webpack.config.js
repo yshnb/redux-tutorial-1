@@ -1,7 +1,7 @@
 module.exports = {
   entry: ["./src/app.js"],
   output: {
-    paht: __dirname+"/dist",
+    path: __dirname+"/dist",
     filename: "app.js",
   },
   module: {
